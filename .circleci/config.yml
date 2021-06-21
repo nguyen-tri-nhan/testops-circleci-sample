@@ -16,16 +16,16 @@ parameters:
   server-url:
     type: string
     default: ""
-  testops-api-key:
+  TESTOPS_API_KEY:
     type: string
     default: ""
-  testops-server-url:
+  TESTOPS_SERVER_URL:
     type: string
     default: ""
-  testops-project-id:
+  TESTOPS_PROJECT_ID:
     type: string
     default: ""
-  testops-session-id:
+  TESTOPS_SESSION_ID:
     type: string
     default: ""
 
