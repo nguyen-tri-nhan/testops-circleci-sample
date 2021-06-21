@@ -26,7 +26,7 @@ parameters:
     type: string
     default: ""
   testops-session-id:
-    type: ""
+    type: string
     default: ""
 
 jobs:
