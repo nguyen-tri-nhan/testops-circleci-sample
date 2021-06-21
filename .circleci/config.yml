@@ -16,6 +16,18 @@ parameters:
   server-url:
     type: string
     default: ""
+  testops-api-key:
+    type: string
+    default: ""
+  testops-server-url:
+    type: string
+    default: ""
+  testops-project-id:
+    type: string
+    default: ""
+  testops-session-id:
+    type: ""
+    default: ""
 
 jobs:
   katalon-test:
